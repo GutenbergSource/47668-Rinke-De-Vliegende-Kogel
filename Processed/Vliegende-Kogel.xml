@@ -1,0 +1,100 @@
+<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>De Vliegende Kogel</title><author key="Rinke, Jan Frederik" ref="https://viaf.org/viaf/81095994/">Jan Frederik Rinke (1863&#8211;1922)</author><respStmt><resp>Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="OLN">#####</idno><idno type="OLW">#####</idno><idno type="OCLC">#####</idno><idno type="LibThing">#####</idno><idno type="PGclearance">20141213075534rinke</idno><idno type="PGSrc">47668-Rinke-De-Vliegende-Kogel</idno><idno type="epub-id">urn:uuid:713f3728-c870-4f3a-8f0a-7b7bda118162</idno><idno type="PGnum">47668</idno><date>2014-12-14</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg Licentie</xref> bij dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+</p><p>Dit boekje is ge&#239;nspireerd door Peter Newell&#8217;s (1862&#8211;1924) &#8220;The Hole Book&#8221; uit 1908.
+</p></availability></publicationStmt><notesStmt><note type="Description">Amsterdam, Scheltens &amp; Gilyay, (1916), ge&#239;llustreede titelpagina en 14 kleurenlitho platen met tekst op de achterkant van de platen en een kogelgat door alle platen en door de band, gedecoreerd karton met linnen rug, oblong, 21 x 29,5 cm.</note></notesStmt><sourceDesc><bibl><author>Jan Rinke</author>
+<title>De Vliegende Kogel</title>
+<date>[1916]</date></bibl></sourceDesc></fileDesc><encodingDesc lang="nl" xml:lang="nl"><p>Dit boek is weergegeven in oorspronkelijke schrijfwijze.
+</p></encodingDesc><profileDesc><langUsage lang="nl" xml:lang="nl"><language id="nl-1900">Nederlands (Spelling De Vries-Te Winkel)</language><language id="nl">Nederlands</language><language id="en">Engels</language></langUsage><textClass><keywords><list><item>Repeteerverhalen</item><item>Prentenboeken</item><item>Rijmvertellingen</item><item>Gatenboeken</item><item>Humoristische verhalen</item></list></keywords></textClass></profileDesc><revisionDesc><list><item>2014-12-13 Begonnen.
+    </item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/Vliegende-Kogel.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+
+<pb/></p></div1><div1 id="titlepage" type="TitlePage"><p><figure id="titlepage-image" rend="image(images/Vliegende-Kogel-01.jpg)"><figDesc>Oorspronkelijke titelpagina.</figDesc></figure>
+</p></div1><titlePage><docTitle><titlePart type="main">De Vliegende Kogel</titlePart></docTitle><figure rend="image(images/gat.png)"/><byline>Ge&#239;llustreerd door <lb/>
+<docAuthor>Jan Rinke</docAuthor><lb/>
+Met versjes van<lb/>
+<docAuthor>Bram</docAuthor></byline></titlePage><pb/></front><body><div1 id="vk" type="Chapter"><p><figure id="vk02" rend="image(images/Vliegende-Kogel-02.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Klein Fransje speelde met een schiet.
+    </l><l rend="indent(2)">Dit was een dom gedoe,</l><l>Want eensklaps ging de kogel af,
+    </l><l rend="indent(2)">Hier hielp geen pa of moe.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>Klein Fransje schrok zich hall&#8217;f dood
+    </l><l rend="indent(2)">En deed een flinken val.</l><l>Zijn wangen werden grutjes grauw,
+    </l><l rend="indent(2)">Bij &#8217;t hooren van den knal.</l></lg><lg type="Group"><l>De kogel sloeg den spiegel stuk,
+    </l><l rend="indent(2)">Tot duizend brokjes glas.</l><l>En boorde in den wand een gat,
+    </l><l rend="indent(2)">Als of &#8217;t boter was.</l></lg></lg><pb/><p><figure id="vk03" rend="image(images/Vliegende-Kogel-03.jpg)"/>
+
+</p><lg type="Group"><lg type="Group"><l>Een juffrouw met een kleinen hond
+    </l><l rend="indent(2)">Liep in de middagzon</l><l>Die hond was jong, wou niet zoet mee
+    </l><l rend="indent(2)">En trok zoo hard-ie kon.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De kogel schoot het touw in twee
+    </l><l rend="indent(2)">De hond ging er van door</l><l>De juffrouw riep nu, in haar schik
+    </l><l rend="indent(2)">Wat ben je zoet Azo&#8217;r.</l></lg></lg><pb/><p><figure id="vk04" rend="image(images/Vliegende-Kogel-04.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Wat verderop schoot dan met gang
+    </l><l rend="indent(2)">En met een flinken knal</l><l>De kogel door een picnictaart,
+    </l><l rend="indent(2)">Dat was een vreemd geval.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>Een elk was met het deeg bespat
+    </l><l rend="indent(2)">Men keek elkander aan.</l><l>Wie of dien flauwen streek verzon
+    </l><l rend="indent(2)">De pret had afgedaan.</l></lg></lg><pb/><p><figure id="vk05" rend="image(images/Vliegende-Kogel-05.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Daar turnde aan ringen neefje Frans
+    </l><l rend="indent(2)">En maakte een fijnen &#8222;zwaan&#8221;</l><l>De kogel sneed het touw in twee
+    </l><l rend="indent(2)">Frans kwam dit duur te staan,</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>Hij viel terdege op zijn neus,
+    </l><l rend="indent(2)">Hij schreeuwde als een man</l><l>Zijn moeder snelde ras nabij
+    </l><l rend="indent(2)">Doch snapte niets ervan.</l></lg></lg><pb/><p><figure id="vk06" rend="image(images/Vliegende-Kogel-06.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Klein Hansje toonde trotsch, verheugd,
+    </l><l rend="indent(2)">Aan zijne kameraads</l><l>Zijn mooie tiencents luchtballon
+    </l><l rend="indent(2)">Hans had als altijd praats.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De kogel trof de dunne draad
+    </l><l rend="indent(2)">Ballon ging op de vlucht,</l><l>Hansje schrok er erg van
+    </l><l rend="indent(2)">Boos keek hij naar de lucht.</l></lg></lg><pb/><p><figure id="vk07" rend="image(images/Vliegende-Kogel-07.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Als steeds was meester boos op Kees
+    </l><l rend="indent(2)">En schreef op &#8217;t zwarte bord</l><l>&#8222;Ik vind dat Kees een bengel is.&#8221;
+    </l><l rend="indent(2)">De kogel kwam gesnord.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>Nam juist de B van bengel weg,
+    </l><l rend="indent(2)">En wat las Keesje dan:</l><l>&#8222;Ik vind dat Kees een engel is,&#8221;
+    </l><l rend="indent(2)">En Keesje bloosde er van.</l></lg></lg><pb/><p><figure id="vk08" rend="image(images/Vliegende-Kogel-08.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Oom John verhuisde en riep: &#8222;Ik help mee,
+    </l><l rend="indent(2)">Als men &#8217;t klavier neerlaat.</l><l>En wees voorzichtig en gebruik
+    </l><l rend="indent(2)">Een dikken stalen draad.&#8221;</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>Maar &#8217;t duister noodlot zond &#8217;t lood
+    </l><l rend="indent(2)">Van Fransje door dien draad</l><l>En met een nooitgehoord muziek
+    </l><l rend="indent(2)">Viel &#8217;t mooi klavier op straat.</l></lg></lg><pb/><p><figure id="vk09" rend="image(images/Vliegende-Kogel-09.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Tom had voor d&#8217;eerste keer een les
+    </l><l rend="indent(2)">In &#8217;t eedle zwemvermaak</l><l>Hij hing daar aan &#8217;t hengel touw
+    </l><l rend="indent(2)">Maar eensklaps liep &#8217;t spaak.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De kogel brak &#8217;t touw in twee
+    </l><l rend="indent(2)">Tom ging als gek te keer</l><l>En nooit meer ging hij na dien schrik
+    </l><l rend="indent(2)">Aan &#8217;t hengeltouw ter leer.</l></lg></lg><pb/><p><figure id="vk10" rend="image(images/Vliegende-Kogel-10.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Een roover op een stillen weg
+    </l><l rend="indent(2)">Riep tot een wandelaar:</l><l>&#8222;Geef hier je geld!&#8221; en zwaaide erbij
+    </l><l rend="indent(2)">Zijn stok met groot misbaar.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>Op tijd trof Fransjes kogel toen
+    </l><l rend="indent(2)">Des ruwen roovers arm</l><l>Het wapen viel hem uit de hand
+    </l><l rend="indent(2)">Hij vluchtte met groot alarm.</l></lg></lg><pb/><p><figure id="vk11" rend="image(images/Vliegende-Kogel-11.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Een sportsman op een motorfiets
+    </l><l rend="indent(2)">Reed veertig mijl per uur</l><l>Hij had een kans op den eersten prijs
+    </l><l rend="indent(2)">Maar eensklaps keek hij zuur.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De kogel trof het reservoir
+    </l><l rend="indent(2)">Waar men benzien in doet</l><l>Een knal! De rijder lag in &#8217;t zand
+    </l><l rend="indent(2)">En riep: &#8222;O prijs, gegroet!&#8221;</l></lg></lg><pb/><p><figure id="vk12" rend="image(images/Vliegende-Kogel-12.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Een baby zoog aan speen en flesch
+    </l><l rend="indent(2)">Zuchtte van louter pret</l><l>Maar &#8217;t snelle lood, in dolle vaart
+    </l><l rend="indent(2)">Doorschoot de melkflesch net.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De baby met zijn leege flesch
+    </l><l rend="indent(2)">Was boos en gilde schel</l><l>De moeder dacht: &#8222;De flesch reeds leeg?
+    </l><l rend="indent(2)">Wat drinkt die bengel snel.&#8221;</l></lg></lg><pb/><p><figure id="vk13" rend="image(images/Vliegende-Kogel-13.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Een knaap in badkuip koelte zocht
+    </l><l rend="indent(2)">Hij plaste ferm de guit.</l><l>De kogel floot den geijser door
+    </l><l rend="indent(2)">Het water spoot er uit.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De kuip spoot vol van stoomend nat
+    </l><l rend="indent(2)">De knaap ging er van door</l><l>En langen tijd nam hij geen bad.
+    </l><l rend="indent(2)">Al was het weder smoor.</l></lg></lg><pb/><p><figure id="vk14" rend="image(images/Vliegende-Kogel-14.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Drie paartjes voeren in een boot
+    </l><l rend="indent(2)">En hadden heel veel pret</l><l>De kogel schoot het bootje lek
+    </l><l rend="indent(2)">Te water lag &#8217;t sextet.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De heeren zwommen naar den kant
+    </l><l rend="indent(2)">Namen de meisjes mee.</l><l>En doornat kwamen ze aan land,
+    </l><l rend="indent(2)">Het bootje dreef naar zee.</l></lg></lg><pb/><p><figure id="vk15" rend="image(images/Vliegende-Kogel-15.jpg)"/>
+</p><lg type="Group"><lg type="Group"><l>Moeder had voor Vadertje
+    </l><l rend="indent(2)">Een pudding klaargemaakt,</l><l>Die pudding werd zoowaarlijk ook
+    </l><l rend="indent(2)">Juist midden in geraakt.</l></lg><l><figure rend="image(images/gat.png)"/>
+</l><lg type="Group"><l>De kogel vloog toen door ons boek
+    </l><l rend="indent(2)">Met steeds versnelde vaart,</l><l>En zette toen zijn zwerftocht voort
+    </l><l rend="indent(2)">Zijn zwerftocht, rondom d&#8217;aard.</l></lg></lg></div1></body><back id="backmatter"><divGen type="Colophon"/></back></text></TEI.2>

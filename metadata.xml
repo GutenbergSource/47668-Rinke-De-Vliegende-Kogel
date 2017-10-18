@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>De Vliegende Kogel</dc:title>
+      <dc:creator>Jan Frederik Rinke (1863–1922)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2014-12-14</dc:publisher>
+      <dc:date>2014-12-14</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit boekje is geïnspireerd door Peter Newell’s (1862–1924) “The Hole Book” uit 1908.
+</dc:rights>
+      <dc:subject>Repeteerverhalen</dc:subject>
+      <dc:subject>Prentenboeken</dc:subject>
+      <dc:subject>Rijmvertellingen</dc:subject>
+      <dc:subject>Gatenboeken</dc:subject>
+      <dc:subject>Humoristische verhalen</dc:subject>
+      <dc:description>Amsterdam, Scheltens &amp; Gilyay, (1916), geïllustreede titelpagina en 14 kleurenlitho platen met tekst op de achterkant van de platen en een kogelgat door alle platen en door de band, gedecoreerd karton met linnen rug, oblong, 21 x 29,5 cm.</dc:description>
+      <dc:identifier>pg:47668</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>

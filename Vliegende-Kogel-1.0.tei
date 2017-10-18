@@ -1,0 +1,505 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY florin CDATA "&#x0192;" -- Florin currency symbol (Netherlands) -->
+
+]>
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>De Vliegende Kogel</title>
+<author key="Rinke, Jan Frederik" ref="https://viaf.org/viaf/81095994/">Jan Frederik Rinke (1863&ndash;1922)</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20141213075534rinke</idno>
+<idno type=PGSrc>47668-Rinke-De-Vliegende-Kogel</idno>
+<idno type=epub-id>urn:uuid:713f3728-c870-4f3a-8f0a-7b7bda118162</idno>
+<idno type=PGnum>47668</idno>
+<date>2014-12-14</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit boekje is geïnspireerd door Peter Newell&apos;s (1862&ndash;1924) &ldquo;The Hole Book&rdquo; uit 1908.
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">Amsterdam, Scheltens &amp; Gilyay, (1916), geïllustreede titelpagina en 14 kleurenlitho platen met tekst op de achterkant van de platen en een kogelgat door alle platen en door de band, gedecoreerd karton met linnen rug, oblong, 21 x 29,5 cm.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Jan Rinke</author>
+<title>De Vliegende Kogel</title>
+<date>[1916]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit boek is weergegeven in oorspronkelijke schrijfwijze.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>Repeteerverhalen</item>
+                <item>Prentenboeken</item>
+                <item>Rijmvertellingen</item>
+                <item>Gatenboeken</item>
+                <item>Humoristische verhalen</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2014-12-13 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/Vliegende-Kogel.jpg)">
+<figDesc>Oorspronkelijke voorkant.</figDesc>
+</figure>
+
+
+<pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/Vliegende-Kogel-01.jpg)">
+<figDesc>Oorspronkelijke titelpagina.</figDesc>
+</figure>
+
+<titlePage>
+<docTitle><titlePart>De Vliegende Kogel</titlePart></docTitle>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<byline>Geïllustreerd door 
+<lb><docAuthor>Jan Rinke</docAuthor>
+<lb>Met versjes van
+<lb><docAuthor>Bram</docAuthor>
+</byline>
+</titlePage>
+
+
+<pb>
+</front>
+<body>
+<div1 id=vk type=Chapter>
+
+<p><figure id=vk02 rend="image(images/Vliegende-Kogel-02.jpg)"></figure>
+
+<lg type=Group><lg>
+<l>Klein Fransje speelde met een schiet.
+    <l rend="indent(2)">Dit was een dom gedoe,
+<l>Want eensklaps ging de kogel af,
+    <l rend="indent(2)">Hier hielp geen pa of moe.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>Klein Fransje schrok zich hall&apos;f dood
+    <l rend="indent(2)">En deed een flinken val.
+<l>Zijn wangen werden grutjes grauw,
+    <l rend="indent(2)">Bij &apos;t hooren van den knal.
+</lg>
+
+<lg>
+<l>De kogel sloeg den spiegel stuk,
+    <l rend="indent(2)">Tot duizend brokjes glas.
+<l>En boorde in den wand een gat,
+    <l rend="indent(2)">Als of &apos;t boter was.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk03 rend="image(images/Vliegende-Kogel-03.jpg)"></figure>
+
+
+<lg><lg>
+<l>Een juffrouw met een kleinen hond
+    <l rend="indent(2)">Liep in de middagzon
+<l>Die hond was jong, wou niet zoet mee
+    <l rend="indent(2)">En trok zoo hard-ie kon.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De kogel schoot het touw in twee
+    <l rend="indent(2)">De hond ging er van door
+<l>De juffrouw riep nu, in haar schik
+    <l rend="indent(2)">Wat ben je zoet Azo&apos;r.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk04 rend="image(images/Vliegende-Kogel-04.jpg)"></figure>
+
+<lg><lg>
+<l>Wat verderop schoot dan met gang
+    <l rend="indent(2)">En met een flinken knal
+<l>De kogel door een picnictaart,
+    <l rend="indent(2)">Dat was een vreemd geval.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>Een elk was met het deeg bespat
+    <l rend="indent(2)">Men keek elkander aan.
+<l>Wie of dien flauwen streek verzon
+    <l rend="indent(2)">De pret had afgedaan.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk05 rend="image(images/Vliegende-Kogel-05.jpg)"></figure>
+
+<lg><lg>
+<l>Daar turnde aan ringen neefje Frans
+    <l rend="indent(2)">En maakte een fijnen &bdquo;zwaan&rdquo;
+<l>De kogel sneed het touw in twee
+    <l rend="indent(2)">Frans kwam dit duur te staan,
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>Hij viel terdege op zijn neus,
+    <l rend="indent(2)">Hij schreeuwde als een man
+<l>Zijn moeder snelde ras nabij
+    <l rend="indent(2)">Doch snapte niets ervan.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk06 rend="image(images/Vliegende-Kogel-06.jpg)"></figure>
+
+<lg><lg>
+<l>Klein Hansje toonde trotsch, verheugd,
+    <l rend="indent(2)">Aan zijne kameraads
+<l>Zijn mooie tiencents luchtballon
+    <l rend="indent(2)">Hans had als altijd praats.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De kogel trof de dunne draad
+    <l rend="indent(2)">Ballon ging op de vlucht,
+<l>Hansje schrok er erg van
+    <l rend="indent(2)">Boos keek hij naar de lucht.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk07 rend="image(images/Vliegende-Kogel-07.jpg)"></figure>
+
+<lg><lg>
+<l>Als steeds was meester boos op Kees
+    <l rend="indent(2)">En schreef op &apos;t zwarte bord
+<l>&bdquo;Ik vind dat Kees een bengel is.&rdquo;
+    <l rend="indent(2)">De kogel kwam gesnord.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>Nam juist de B van bengel weg,
+    <l rend="indent(2)">En wat las Keesje dan:
+<l>&bdquo;Ik vind dat Kees een engel is,&rdquo;
+    <l rend="indent(2)">En Keesje bloosde er van.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk08 rend="image(images/Vliegende-Kogel-08.jpg)"></figure>
+
+<lg><lg>
+<l>Oom John verhuisde en riep: &bdquo;Ik help mee,
+    <l rend="indent(2)">Als men &apos;t klavier neerlaat.
+<l>En wees voorzichtig en gebruik
+    <l rend="indent(2)">Een dikken stalen draad.&rdquo;
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>Maar &apos;t duister noodlot zond &apos;t lood
+    <l rend="indent(2)">Van Fransje door dien draad
+<l>En met een nooitgehoord muziek
+    <l rend="indent(2)">Viel &apos;t mooi klavier op straat.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk09 rend="image(images/Vliegende-Kogel-09.jpg)"></figure>
+
+<lg><lg>
+<l>Tom had voor d&apos;eerste keer een les
+    <l rend="indent(2)">In &apos;t eedle zwemvermaak
+<l>Hij hing daar aan &apos;t hengel touw
+    <l rend="indent(2)">Maar eensklaps liep &apos;t spaak.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De kogel brak &apos;t touw in twee
+    <l rend="indent(2)">Tom ging als gek te keer
+<l>En nooit meer ging hij na dien schrik
+    <l rend="indent(2)">Aan &apos;t hengeltouw ter leer.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk10 rend="image(images/Vliegende-Kogel-10.jpg)"></figure>
+
+<lg><lg>
+<l>Een roover op een stillen weg
+    <l rend="indent(2)">Riep tot een wandelaar:
+<l>&bdquo;Geef hier je geld!&rdquo; en zwaaide erbij
+    <l rend="indent(2)">Zijn stok met groot misbaar.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>Op tijd trof Fransjes kogel toen
+    <l rend="indent(2)">Des ruwen roovers arm
+<l>Het wapen viel hem uit de hand
+    <l rend="indent(2)">Hij vluchtte met groot alarm.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk11 rend="image(images/Vliegende-Kogel-11.jpg)"></figure>
+
+<lg><lg>
+<l>Een sportsman op een motorfiets
+    <l rend="indent(2)">Reed veertig mijl per uur
+<l>Hij had een kans op den eersten prijs
+    <l rend="indent(2)">Maar eensklaps keek hij zuur.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De kogel trof het reservoir
+    <l rend="indent(2)">Waar men benzien in doet
+<l>Een knal! De rijder lag in &apos;t zand
+    <l rend="indent(2)">En riep: &bdquo;O prijs, gegroet!&rdquo;
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk12 rend="image(images/Vliegende-Kogel-12.jpg)"></figure>
+
+<lg><lg>
+<l>Een baby zoog aan speen en flesch
+    <l rend="indent(2)">Zuchtte van louter pret
+<l>Maar &apos;t snelle lood, in dolle vaart
+    <l rend="indent(2)">Doorschoot de melkflesch net.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De baby met zijn leege flesch
+    <l rend="indent(2)">Was boos en gilde schel
+<l>De moeder dacht: &bdquo;De flesch reeds leeg?
+    <l rend="indent(2)">Wat drinkt die bengel snel.&rdquo;
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk13 rend="image(images/Vliegende-Kogel-13.jpg)"></figure>
+
+<lg><lg>
+<l>Een knaap in badkuip koelte zocht
+    <l rend="indent(2)">Hij plaste ferm de guit.
+<l>De kogel floot den geijser door
+    <l rend="indent(2)">Het water spoot er uit.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De kuip spoot vol van stoomend nat
+    <l rend="indent(2)">De knaap ging er van door
+<l>En langen tijd nam hij geen bad.
+    <l rend="indent(2)">Al was het weder smoor.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk14 rend="image(images/Vliegende-Kogel-14.jpg)"></figure>
+
+<lg><lg>
+<l>Drie paartjes voeren in een boot
+    <l rend="indent(2)">En hadden heel veel pret
+<l>De kogel schoot het bootje lek
+    <l rend="indent(2)">Te water lag &apos;t sextet.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De heeren zwommen naar den kant
+    <l rend="indent(2)">Namen de meisjes mee.
+<l>En doornat kwamen ze aan land,
+    <l rend="indent(2)">Het bootje dreef naar zee.
+</lg></lg>
+
+<pb>
+
+<p><figure id=vk15 rend="image(images/Vliegende-Kogel-15.jpg)"></figure>
+
+<lg><lg>
+<l>Moeder had voor Vadertje
+    <l rend="indent(2)">Een pudding klaargemaakt,
+<l>Die pudding werd zoowaarlijk ook
+    <l rend="indent(2)">Juist midden in geraakt.
+</lg>
+
+<figure rend="image(images/gat.png)"></figure>
+
+<lg>
+<l>De kogel vloog toen door ons boek
+    <l rend="indent(2)">Met steeds versnelde vaart,
+<l>En zette toen zijn zwerftocht voort
+    <l rend="indent(2)">Zijn zwerftocht, rondom d&apos;aard.
+</lg></lg>
+
+
+
+</body>
+<back id=backmatter>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[ ] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
+[ ] Generate unique epub-id. (http://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend=&bdquo;indent(2)&rdquo;
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2. ([0-9])\&ndash;([0-9])/([0-9]) becomes \1\&frac\2\3;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
